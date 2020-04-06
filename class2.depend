@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1581972817 source:c:\users\abrah\onedrive\documents\college\semester 6\oop\inclasscoding\class2\main.cpp
+	<iostream>
+	"ComplexNumber.h"
+
+1581972528 source:c:\users\abrah\onedrive\documents\college\semester 6\oop\inclasscoding\class2\src\complexnumber.cpp
+	<iostream>
+	<cmath>
+	"ComplexNumber.h"
+
+1581722104 c:\users\abrah\onedrive\documents\college\semester 6\oop\inclasscoding\class2\include\complexnumber.h
+
